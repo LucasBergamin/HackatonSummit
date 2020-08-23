@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "791909254492",
+    "firebase_url": "https://hackatonamericanas.firebaseio.com",
+    "project_id": "hackatonamericanas",
+    "storage_bucket": "hackatonamericanas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791909254492:android:611dee8f82b701d5a1ad99",
+        "android_client_info": {
+          "package_name": "com.example.hacktonsummit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791909254492-4uq1k5c61lujdaamcglb1mps1i3p6n41.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hacktonsummit",
+            "certificate_hash": "33e082213600c36a41b6da16f8d7082b8079ab9d"
+          }
+        },
+        {
+          "client_id": "791909254492-rfm3ajn24caj4ib6ekode4kgr6jrepnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEznYE-k7UvB_KSyH3GHe9zHg1J0l1okk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791909254492-rfm3ajn24caj4ib6ekode4kgr6jrepnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

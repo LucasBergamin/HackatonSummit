@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.hacktonsummit">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activity.AdicionarCoisasFinalSemanaActivity"></activity>
+        <activity android:name=".Activity.AdicionarCoisasComprarActivity" />
+        <activity android:name=".Activity.ComemorandoActivity" />
+        <activity android:name=".Activity.CupomRespostaNegativaActivity" />
+        <activity android:name=".Activity.CupomRespostaPositivaActivity" />
+        <activity android:name=".Activity.CuponsActivity" />
+        <activity android:name=".Activity.respostaNegativaDaNegativaActivity" />
+        <activity android:name=".Activity.respostaPositivadaNegativaActivity" />
+        <activity android:name=".Activity.IncrivelActivity" />
+        <activity android:name=".Activity.IdadeActivity" />
+        <activity android:name=".Activity.NegativoActivity" />
+        <activity android:name=".Activity.PositivoActivity" />
+        <activity android:name=".Activity.PersonalizarActivity" />
+        <activity android:name=".Activity.VoltadoPersonalizacaoActivity" />
+        <activity android:name=".Activity.LojaSemFiltroActivity" />
+        <activity android:name=".Activity.MeuPerfilActivity" />
+        <activity android:name=".Activity.naoActivity" />
+        <activity android:name=".Activity.InformacoesMaryActivity" />
+        <activity android:name=".Activity.LogarActivity" />
+        <activity android:name=".Activity.CadastrarActivity" />
+        <activity android:name=".Activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
