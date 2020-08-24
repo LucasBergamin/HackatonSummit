@@ -8,3 +8,5 @@ ou promoções fazendo com que o usuário se sinta mais acolhido, e facilitando 
 usuário for em algum loja física ele possa mostrar seu qrCode na entrada da loja e algum funcionário irá de um modo personalizado atender este cliente 
 já que o funcionário saberá o nome, data de aniversário, quantos anos a pessoa tem, e os interesses dela, o que pode tornar o modo de compra muito mais 
 agradável para o cliente 
+
+Link para dowload apk do projeto: https://mega.nz/folder/vxNBCIRT#EAxRdztb1BVTXRHXoMwDpA
